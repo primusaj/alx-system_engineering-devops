@@ -1,0 +1,2 @@
+echo 'shell directory files'
+
