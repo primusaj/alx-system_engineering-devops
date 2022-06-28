@@ -1,1 +1,2 @@
-ehco ' hello world'
+SHELL REDIRECTIONS
+Task 0: Hello world
