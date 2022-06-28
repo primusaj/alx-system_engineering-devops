@@ -6,3 +6,4 @@ Task 3: What about 2?
 Task 4: Last lines of a file
 Task 5: firstlines
 Task 6: display the third line
+task 7: 7file
